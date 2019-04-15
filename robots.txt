@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eephaasow.rust.cologne/sitemap.xml
